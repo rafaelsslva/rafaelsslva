@@ -1,4 +1,7 @@
-## Oláaa, Eu me chamo Rafael, adoro estudar programação e descobrir novas tecnologias :)
+<div align="center">
+  <h2>Hello I'm Rafael 👋</h2>
+</div
+## 
 <div style="display: flex">
 <div align="center">
   <a href="https://github.com/rafaelsslva">
